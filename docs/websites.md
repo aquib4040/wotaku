@@ -41,7 +41,7 @@ outline: 1
 | [Animotvslash](https://www.animotvslash.org/) [:alt:](https://animotvslash.nl/home/) | :no: | :no: | :cc::oc: |
 | [Otaku-Streamers](https://beta.otaku-streamers.com/) :acc: ==OtakuStreamers== | :yes: | :no: | :oc: |
 | [Watch Cartoon Online](https://www.wco.tv/) [:prx:](https://www.wcostatus.com/) ==WCO== | :yes: | :no: | :oc: |
-
+| [AnimeShrine](https://animeshrine.xyz/) | :no: | :no: | :cc::oc: |
 
 ### Scrapers
 | Websites | Login | Tracking | Sub |
@@ -50,7 +50,6 @@ outline: 1
 | [Animetsu](https://animetsu.net/) [:prx:](https://rentry.org/wotaxy#animetsu) | :yes: | :ie::msync: | :cc::oc: |
 | [AnimeX](https://animex.one/home) | :yes: | :sync: | :cc::oc: |
 | [Miruro](https://www.miruro.to/) [:prx:](https://www.miruro.com) | :yes: | :sync::msync: | :cc::oc: |
-| [AnimeShrine](https://animeshrine.xyz/) [:src:](https://github.com/aquib4040/animeshrine) | :no: | :no: | :cc::oc: |
 
 ### Source table
 <ScrapeTable :sites="[
